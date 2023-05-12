@@ -1,6 +1,6 @@
 # Recommendation system
 
-The aimed of this project is to work on a recommendation system. 
+The aim of this project is to work on a recommendation system. 
 
 I am going to apply statistical and machine learning methods to construct our own recommenders and evaluate which recommender performe the best.
 
