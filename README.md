@@ -4,7 +4,7 @@
 
 The aim of this project is to work on a recommendation system.
 
-We are going to apply statistical and machine learning methods to construct our own recommenders and evaluate which recommender performe the best.
+We are going to apply statistical and machine learning methods to construct our own recommenders.
 
 This project is separated in 2 different datasets:
 
