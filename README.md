@@ -12,8 +12,7 @@ This project is separated in 2 different datasets:
 
     In order to do that we are using the Pearson coefficient, so high coefficients means that restaurants are correlated. If restaurants are correlated, then the user is quite likely to like the restaurant suggested and give another good review.
 
-    $$r = \frac{{}\sum_{i=1}^{n} (x_i - \overline{x})(y_i - \overline{y})}
-    {\sqrt{\sum_{i=1}^{n} (x_i - \overline{x})^2  \sum_{i=1}^{n}(y_i - \overline{y})^2}}$$
+    $$r = \frac{{}\sum_{i=1}^{n} (x_i - \overline{x})(y_i - \overline{y})}{\sqrt{\sum_{i=1}^{n} (x_i - \overline{x})^2  \sum_{i=1}^{n}(y_i - \overline{y})^2}}$$
 
 2. In this dataset, we are using Machine Learning. The choosen method is a Logistic Regression Recommender but we could also use others like Naive Bayes. We will see if a customer is good or bad based on its transaction history, user attribute data... so we can determine if we can grant a credit, personal loans or any other financial active.
 
